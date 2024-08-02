@@ -14,5 +14,3 @@ This project is a simple implementation of a maze pathfinding algorithm in Java.
 To run this project, you need to have the following installed:
 
 - Java Development Kit (JDK) 8 or higher
-
-## Setup
